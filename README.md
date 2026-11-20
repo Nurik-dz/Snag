@@ -16,6 +16,10 @@
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
+<p align="center">
+  <img src="docs/screenshot.png" width="440" alt="Snag with a video ready to download">
+</p>
+
 ---
 
 ## Install
